@@ -1,3 +1,7 @@
+# general
+.DS_Store
+
+# haskell
 dist
 cabal-dev
 *.o
